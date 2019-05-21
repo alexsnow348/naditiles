@@ -23,6 +23,7 @@
     "babel-preset-expo": "^5.0.0",
     "jest-expo": "^32.0.0",
     "react-native-data-table": "^0.2.1",
+    "react-native-dropdown-menu": "^2.0.0",
     "react-native-paper": "^2.15.2",
     "react-native-table-component": "^1.2.0"
   },
