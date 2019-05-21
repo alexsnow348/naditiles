@@ -1,6 +1,6 @@
 # Nadi Tiles business management application
 
-## Nadi Tiles - verson 1
+## Nadi Tiles - Verson 1.0.0
 
 ### Features list
 
