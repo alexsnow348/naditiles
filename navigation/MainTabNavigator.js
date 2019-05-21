@@ -12,14 +12,14 @@ const HomeStack = createStackNavigator({
 });
 
 HomeStack.navigationOptions = {
-  tabBarLabel: 'Home',
+  tabBarLabel: 'Inventory',
   tabBarIcon: ({ focused }) => (
     <TabBarIcon
       focused={focused}
       name={
         Platform.OS === 'ios'
-          ? `ios-business${focused ? '' : '-outline'}`
-          : 'md-business'
+          ? `ios-today${focused ? '' : '-outline'}`
+          : 'md-today'
       }
     />
   ),
