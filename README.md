@@ -1,4 +1,4 @@
-# Nadi Tiles business management application
+# Nadi Tiles Business Management Mobile Application
 
 ## Nadi Tiles - Verson 1.0.0
 
